@@ -85,7 +85,6 @@ public enum GhostScriptCommand
   NoCache = 73, // 0x00000049
   NoGC = 74, // 0x0000004A
   NoOuterSave = 75, // 0x0000004B
-  DelayedSave = 76, // 0x0000004C
   NoSafer = 76, // 0x0000004C
   Safer = 77, // 0x0000004D
   Strict = 78, // 0x0000004E
@@ -105,4 +104,5 @@ public enum GhostScriptCommand
   PaperSize = 92, // 0x0000005C
   Silent = 93, // 0x0000005D
   InputFile = 94, // 0x0000005E
+  DelayedSave = 95, // 0x0000004C
 }
