@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1LK8yH0uUw=",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Matika\\Documentos\\Dll_NETCORE\\Cyotek.GhostScript.PdfConversion.Core\\Cyotek.GhostScript.PdfConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wigam\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\wigam\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
