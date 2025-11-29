@@ -85,7 +85,6 @@ public enum GhostScriptCommand
   NoCache = 73, // 0x00000049
   NoGC = 74, // 0x0000004A
   NoOuterSave = 75, // 0x0000004B
-  DelayedSave = 76, // 0x0000004C
   NoSafer = 76, // 0x0000004C
   Safer = 77, // 0x0000004D
   Strict = 78, // 0x0000004E
